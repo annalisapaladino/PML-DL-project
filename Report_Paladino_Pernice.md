@@ -357,6 +357,5 @@ Here there is a full example of a synthetic table generated with our framework:
 
 ## Reccomendations for future research
 
-1. We saw that LLMs are great in mirroring human behavior, but we didn't try with other simulation domains like physiscs or chemistry. Further studies should study how good are LLMs in those domains.
+We saw that LLMs are great in mirroring human behavior, but we didn't try with other simulation domains like physiscs or chemistry. Further studies should study how good are LLMs in those domains.
 
-2. 
