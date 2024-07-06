@@ -1,0 +1,61 @@
+Article,Price ($),Description,Brand,Likelihood
+Apple,5.79,Fresh and crispy red apples,Golden Harvest,0.8
+Apple,1.76,Fresh and crispy red apples,Orchard Fresh,0.8
+Apple,1.29,Fresh and crispy red apples,Nature's Delight,0.8
+Banana,4.72,Ripe and sweet bananas,Dole,0.8
+Banana,2.77,Ripe and sweet bananas,Chiquita,0.8
+Banana,4.09,Ripe and sweet bananas,Fresh Farms,0.8
+Carrot,2.26,"Organic carrots, perfect for salads",Farm Fresh,0.3
+Carrot,1.27,"Organic carrots, perfect for salads",Organic Valley,0.3
+Carrot,2.49,"Organic carrots, perfect for salads",Healthy Harvest,0.3
+Detergent,4.68,Effective and fragrant detergent,Tide,0.3
+Detergent,2.42,Effective and fragrant detergent,Gain,0.3
+Detergent,3.96,Effective and fragrant detergent,Arm & Hammer,0.3
+Eggs,3.11,"Farm fresh eggs, pack of 12",Happy Hen,0.3
+Eggs,2.36,"Farm fresh eggs, pack of 12",Eggland's Best,0.3
+Eggs,5.75,"Farm fresh eggs, pack of 12",Farmhouse Eggs,0.3
+Flour,5.37,All-purpose baking flour,King Arthur,0.3
+Flour,1.12,All-purpose baking flour,Gold Medal,0.3
+Flour,3.56,All-purpose baking flour,Pillsbury,0.3
+Grapes,4.15,Juicy and sweet seedless grapes,Del Monte,0.3
+Grapes,1.99,Juicy and sweet seedless grapes,Sun-Maid,0.3
+Grapes,5.75,Juicy and sweet seedless grapes,Green Giant,0.3
+Honey,5.72,Pure and natural honey,Nature's Nectar,0.3
+Honey,5.72,Pure and natural honey,Bee's Best,0.3
+Honey,4.13,Pure and natural honey,Honey Gardens,0.3
+Ice Cream,1.4,Creamy vanilla ice cream,Breyers,0.3
+Ice Cream,3.46,Creamy vanilla ice cream,Ben & Jerry's,0.3
+Ice Cream,1.2,Creamy vanilla ice cream,Haagen-Dazs,0.3
+Juice,5.61,Freshly squeezed orange juice,Tropicana,0.5
+Juice,3.23,Freshly squeezed orange juice,Simply Orange,0.5
+Juice,5.01,Freshly squeezed orange juice,Minute Maid,0.5
+Kale,1.51,"Organic kale, rich in vitamins",Green Farm,0.3
+Kale,0.98,"Organic kale, rich in vitamins",Nature's Greens,0.3
+Kale,4.5,"Organic kale, rich in vitamins",Organic Valley,0.3
+Lettuce,5.19,Crisp and fresh lettuce,Iceberg,0.3
+Lettuce,0.76,Crisp and fresh lettuce,Romaine Garden,0.3
+Lettuce,2.15,Crisp and fresh lettuce,Fresh Express,0.3
+Milk,1.46,"Whole milk, 1 liter",Dairy Pure,0.75
+Milk,3.62,"Whole milk, 1 liter",Horizon,0.75
+Milk,4.7,"Whole milk, 1 liter",Organic Valley,0.75
+Nuts,4.95,"Mixed nuts, rich in protein",Planters,0.3
+Nuts,2.26,"Mixed nuts, rich in protein",Blue Diamond,0.3
+Nuts,2.64,"Mixed nuts, rich in protein",Wonderful,0.3
+Olive Oil,2.34,"Extra virgin olive oil, 500ml",Bertolli,0.3
+Olive Oil,5.69,"Extra virgin olive oil, 500ml",Colavita,0.3
+Olive Oil,4.39,"Extra virgin olive oil, 500ml",California Olive Ranch,0.3
+Pasta,1.82,Durum wheat pasta,Barilla,0.65
+Pasta,2.04,Durum wheat pasta,De Cecco,0.65
+Pasta,2.04,Durum wheat pasta,Ronzoni,0.65
+Quinoa,5.56,"High-protein quinoa, 500g",Ancient Harvest,0.3
+Quinoa,3.16,"High-protein quinoa, 500g",Bob's Red Mill,0.3
+Quinoa,5.91,"High-protein quinoa, 500g",Nature's Earthly Choice,0.3
+Rice,0.61,"Long grain white rice, 1kg",Uncle Ben's,0.65
+Rice,1.05,"Long grain white rice, 1kg",Lundberg,0.65
+Rice,5.65,"Long grain white rice, 1kg",Mahatma,0.65
+Sugar,1.03,"Granulated white sugar, 1kg",Domino,0.3
+Sugar,5.68,"Granulated white sugar, 1kg",C&H,0.3
+Sugar,1.58,"Granulated white sugar, 1kg",Imperial,0.3
+Tomatoes,5.13,Vine-ripened tomatoes,Heirloom,0.3
+Tomatoes,5.54,Vine-ripened tomatoes,Roma,0.3
+Tomatoes,3.01,Vine-ripened tomatoes,Cherry Delight,0.3
