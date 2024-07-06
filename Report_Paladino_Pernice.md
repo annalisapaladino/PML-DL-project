@@ -169,7 +169,7 @@ Let's discuss both points.
 
 ## How the likelihood scores change varying the prompt
 
-To test how the model chooses the likelihood value, we change the value of the family income and see how the model adapt its generation. In particular, this is the instruction promot we used:
+To test how the model chooses the likelihood value, we change the value of the family income and see how the model adapt its generation. In particular, this is the instruction prompt we used:
 
 ```
 
@@ -183,7 +183,7 @@ tell how likely you will buy the golden harvest apple. Your response will be:
 
 ```
 
-We ask to provide not only the likelihood value, but also an explanation: it's important to understand why the model comes with that value and how the model is "reasoning". All the explanations are in the full report.
+We ask to provide not only the likelihood value, but also an explanation: it's important to understand why the model comes with that value and how the model is "reasoning". All the explanations are available in the [simulation results](https://github.com/annalisapaladino/PML-DL-project/blob/main/simulation_results.txt) file.
 Let's see just an example:
 
 ```
